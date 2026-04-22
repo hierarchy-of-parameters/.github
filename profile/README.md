@@ -11,4 +11,4 @@ Another goal is to make the projects that build on the database easier to find.
 * [Graph Parameter Hierarchy Visualizer](https://yutookada.com/tools/graph-parameters/) - visual parameter browser by Yuto Okada (岡田優斗)
 * [Graph Parameter Hierarchy](https://www.graphparameterhierarchy.com/) - visual parameter browser by Yeonsu Chang (장연수)
 
-This group was founded and is currently maintained Václav Blažej ([vaclavblazej@gmail.com](mailto:vaclavblazej@gmail.com)) and Manuel Sorge ([manuel.sorge@ac.tuwien.ac.at](mailto:manuel.sorge@ac.tuwien.ac.at)).
+This group was founded and is currently maintained by Václav Blažej ([vaclavblazej@gmail.com](mailto:vaclavblazej@gmail.com)) and Manuel Sorge ([manuel.sorge@ac.tuwien.ac.at](mailto:manuel.sorge@ac.tuwien.ac.at)).
