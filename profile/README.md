@@ -1,8 +1,11 @@
-HOPS on Github collects people interested in furthering data and tools for Hierarchies for Graph Parameters. We aim to provide:
+HOPS on Github collects people interested in furthering data and tools for Hierarchies for Graph Parameters.
+We aim to provide:
 
-* **database** of parameters and their relations including references to relevant publications
+* [**database**](https://github.com/hierarchy-of-parameters/parameter-db) of parameters and their relations including references to relevant publications
 * **tools** and **tutorials** for working with the database
 * [**discussions**](https://github.com/orgs/hierarchy-of-parameters/discussions) which steer future development and the implied **decisions** with their rationale
+
+*We are in the initial phase of settings things up -- the process of creating the database was decided but we are working on this. We aim to have a usable setup by June 2026.*
 
 Another goal is to make the projects that build on the database easier to find.
 
